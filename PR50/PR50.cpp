@@ -6,6 +6,7 @@ int sum(int x, int y)
 }
 int main()
 {
+	//test
 	int a, b;
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
